@@ -1,6 +1,13 @@
 ## Hello there! How you doin?
 A basic hellow world setup for building a chrome extension/app
 
+The hello-chrome-app folder contains the code for a basic chrome app with javascript
+The hello-chrome-ext folder contains the code for a basic chrome dropdown extension
+
+- To use clone, open your extensions in your chrome browser, make sure the developer mode is checked, drag each folder onto the broswer window and it will load. App will appear in your apps, ext will appear with an omni box on the upper right hand corner of your screen.
+
+Feel free to leave me feedback or questions here: http://www.jeremyroelfs.com/blog/?p=25
+There is also a slide show giving a very quick lightning talk on the subject: https://docs.google.com/presentation/d/1_K_JzmvUNkvqekLV2GfykdtO25eprtGE69OXPcctf_8/edit?usp=sharing
 
 ###Notes:
 Google uses a different local storage get/set API for it's extensions and apps, than the normal local storage in the browser.
