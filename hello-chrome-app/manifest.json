@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+  "name": "gSchool - Hello Chrome App",
+  "version": "1",
+
+  "icons": {
+    "128": "icon_128.png"
+  },
+
+  "permissions": [],//google api doesn't like localStorage.get/set use ["storage"] here and read more in the readme.md
+
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+
+    }
+  },
+
+  "minimum_chrome_version": "28"
+
+}
