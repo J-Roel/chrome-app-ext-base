@@ -16,7 +16,10 @@ The hello-chrome-ext folder contains the code for a basic chrome dropdown extens
 >App will appear in your apps, ext will appear with an omni box on the upper right hand corner of your screen.
 
 Feel free to leave me feedback or questions here: http://www.jeremyroelfs.com/blog/?p=25
-There is also a slide show giving a very quick lightning talk on the subject: https://docs.google.com/presentation/d/1_K_JzmvUNkvqekLV2GfykdtO25eprtGE69OXPcctf_8/edit?usp=sharing
+There is also a slide show there giving a very quick lightning talk on the subject at my blog or here:
+https://docs.google.com/presentation/d/1_K_JzmvUNkvqekLV2GfykdtO25eprtGE69OXPcctf_8/edit?usp=sharing
+
+I recommend going through the tutorials below too.
 
 ###Notes:
 Google uses a different local storage get/set API for it's extensions and apps, than the normal local storage in the browser.
@@ -40,7 +43,7 @@ This fleshes out the whole manifest and makes sense of where things should go:
 https://developer.chrome.com/extensions/manifest
 
 
-Here are some good tutorials to work through:
+###Tutorials:
 
 https://developer.chrome.com/apps/app_codelab_basics  -!This one is really the best one I've found
 
