@@ -1,4 +1,4 @@
-## Hello there!
+## Hello World - A Chrome Browser Boilerplate!
 A basic hellow world setup for building a chrome extension/app.
 
 The hello-chrome-app folder contains the code for a basic chrome app with javascript
