@@ -1,8 +1,8 @@
 ## Hello World - A Chrome Browser Boilerplate!
 A basic hello world setup for building a chrome extension/app.
 
-The hello-chrome-app folder contains the code for a basic chrome app with javascript
-The hello-chrome-ext folder contains the code for a basic chrome dropdown extension
+- The hello-chrome-app folder contains the code for a basic chrome app with javascript
+- The hello-chrome-ext folder contains the code for a basic chrome dropdown extension
 
 ###--- To use ---
 >Clone
@@ -11,7 +11,7 @@ The hello-chrome-ext folder contains the code for a basic chrome dropdown extens
 
 >make sure the developer mode is checked at the top of the page,
 
->drag each folder onto the browser window and it will load. 
+>drag each folder onto the browser window and it will load.
 
 >App will appear in your apps, ext will appear with an omni box on the upper right hand corner of your screen.
 
@@ -34,7 +34,7 @@ I recommend going through the tutorials below too.
 
   > 1) You cannot run scripts directly in html files. Instead src them to another js file and call them.
 
-  > 2) Read the CSP documentation; there is quite a bit there, but it's all pretty simple with some examples to help
+  > 2) Read the CSP documentation; there is quite a bit there, but it's all pretty simple with some examples to help.
 
 
 
@@ -47,9 +47,9 @@ https://developer.chrome.com/extensions/manifest
 
 ###Tutorials:
 
-https://developer.chrome.com/apps/app_codelab_basics  -!This one is really the best one I've found
+https://developer.chrome.com/apps/app_codelab_basics  - This is really the best one I've found!
 
-http://www.sitepoint.com/create-chrome-extension-10-minutes-flat/ -!This is a popup app that test the speed of your site, pretty cool
+http://www.sitepoint.com/create-chrome-extension-10-minutes-flat/ -This is a popup app that test the speed of your site, pretty cool.
 
 http://tutorialzine.com/2010/06/making-first-chrome-extension/
 
